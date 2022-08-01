@@ -25,7 +25,6 @@
     "dist": "run-s dist:*",
     "dist:react": "run-s build",
     "dist:electron": "electron-forge make",
-    "dz": "electron-forge make",
     "publish": "electron-forge publish"
   },
   "eslintConfig": {
